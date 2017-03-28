@@ -17,7 +17,7 @@ zkserver start
 
 Start kafka server:
 ```
-cd /usr/local/Cellar/kafka/0.10.1.1/bin
+cd /usr/local/Cellar/kafka/0.10.2.0/bin
 kafka-server-start  /usr/local/etc/kafka/server.properties
 ```
 
